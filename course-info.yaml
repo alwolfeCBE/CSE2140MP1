@@ -1,0 +1,10 @@
+type: marketplace
+title: Mastery Project 1 Zellers Convergence
+language: English
+summary: |
+  Mastery Project 1: Zeller's Convergence
+programming_language: Java
+content:
+  - Mastery Project 1
+environment_settings:
+  jvm_language_level: JDK_1_8
